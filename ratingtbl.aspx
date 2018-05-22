@@ -33,7 +33,7 @@
                 <asp:Label ID="Label3" runat="server" Text="R DATE"></asp:Label>
             </td>
             <td>
-                <asp:TextBox ID="txtrdate" runat="server" TextMode="DateTime"></asp:TextBox>
+                <asp:TextBox ID="txtrdate" runat="server"></asp:TextBox>
             </td>
             <td>&nbsp;</td>
         </tr>
